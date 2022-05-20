@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/NchantedLily/week8day1homework#readme",
   "dependencies": {
+    "ejs": "^3.1.8",
     "express": "^4.18.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
   }
 }
